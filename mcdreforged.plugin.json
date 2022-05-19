@@ -1,0 +1,19 @@
+{
+    "id": "hitokoto",
+    "version": "1.0.0",
+    "name": "HiToKoTo",
+    "description":{
+        "en_us":"A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers",
+        "zh_cn":"一个简单的MCDR插件，用于同步Minecraft地图文件"
+    },
+    "author": [
+        "MRNOBODY-ZST"
+    ], 
+    "link": "https://github.com/MRNOBODY-ZST/HITOKOTO-MCDR",
+    "dependences": {
+        "mcdreforged": ">=2.0.0",
+    },
+    "entrypoint": "hitokoto.hitokoto",
+    "archive_name": "Hitokoto-v{version}"
+
+}
