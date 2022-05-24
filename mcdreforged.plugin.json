@@ -1,6 +1,6 @@
 {
     "id": "hitokoto",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "name": "HiToKoTo",
     "description":{
         "en_us":"An MCDR Plugin Saying HiToKoTo When Player Login",
